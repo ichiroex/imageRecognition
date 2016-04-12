@@ -8,6 +8,8 @@ For more information, visit [docomo Developer support](https://dev.smt.docomo.ne
 
 ## Usage
     $ python imageRecognition.py [--image (JPEG file name)] [--scene (modelName)]
+    
+    $ python imageRecognition.py --help  
 
     usage: imageRecognition.py [-h] [--image IMAGE] [--model MODEL]
 
